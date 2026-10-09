@@ -1,8 +1,8 @@
-# solar-panel-orientation-calculator [Yemen  Malaysia ]
 # Solar Panel Orientation Calculator
+### <img src="https://flagcdn.com/w40/ye.png" height="20" alt="Yemen" /> Yemen · <img src="https://flagcdn.com/w40/my.png" height="20" alt="Malaysia" /> Malaysia
 
-An interactive calculator for solar panel orientation for Malaysian cities.
 
+**An interactive calculator for optimal solar panel tilt and orientation for cities in Malaysia and Yemen.**
 ## Features
 
 - [What the user can enter, for example city or panel tilt]
